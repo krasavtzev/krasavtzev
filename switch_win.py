@@ -51,7 +51,7 @@ Windows V 1.3',
  ";". Список должен начинаться с ";").\
               \n Примеры: F5 обновить вкладку,Ctrl+Tab - Циклическое движение \
 вперед по открытым вкладкам в браузере.'}
-        self.dict_en = {'l_win_title': 'Switch between applicaations V 1.3',
+        self.dict_en = {'l_win_title': 'Switch between applications V 1.3',
                         'l_n_cicl': 'Cycle count',
                         'l_create_lst': 'Create a list',
                         'l_start': 'Start switching',
