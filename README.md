@@ -1,5 +1,7 @@
 # switch_win
 
+![Screen](/sw_win.jpg)
+
 # Description
 The program generates a list of running applications and executes in a loop
 switch between running applications
