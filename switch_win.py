@@ -6,7 +6,8 @@ emulation of pressing key combinations before and after changing focus.
 Программа в цикле выполняет переключения между запущенными приложениями
 Windows с указанными интервалами времени по каждому приложению и
 эмуляцией нажатия комбинаций клавиш до и после изменения фокуса.
-Author: Krasavtsev V 
+Author: Krasavtsev V
+https://github.com/krasavtzev/switch_win
 '''
 import time
 import warnings
