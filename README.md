@@ -15,7 +15,7 @@ emulation of pressing key combinations before and after changing focus.
 [Download executable file][download-exe]
 
 ## Variant 2
-1.Download sources from the site
+1. Download sources from the site
 2. Install:
 
       _Python 3.*_
