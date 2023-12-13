@@ -8,6 +8,8 @@ switch between running applications
 Windows with specified time intervals for each application and
 emulation of pressing key combinations before and after changing focus.
 
+# OS requirements: Windows 10/11
+
 # Installation
 
 ## Variant 1
@@ -43,6 +45,8 @@ F5 - refresh browser screen, Ctrl+F5 - switch to the next tab
 переключения между запущенными приложениями
 Windows с указанными интервалами времени по каждому приложению и
 эмуляцией нажатия комбинаций клавиш до и после изменения фокуса.
+
+# Требования к ОС: Windows 10/11
 
 # Установка
 
